@@ -1,5 +1,9 @@
 # SEC-WebScraping-Python
 
+## SEC
+
+* [Accessing SEC Data](https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm)
+
 ## Sigma Coding Videos
 * [Scraping the SEC](https://www.youtube.com/watch?v=-7I7OAC6ih8)
 * [Parsing the SEC Data](https://www.youtube.com/watch?v=TxUmufNnIaA&t=127s)
