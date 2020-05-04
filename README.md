@@ -6,7 +6,7 @@
 
 ## Sigma Coding Videos
 * [Scraping the SEC](https://www.youtube.com/watch?v=-7I7OAC6ih8)
-* [Scraping the SEC, 2020] (https://www.youtube.com/watch?v=dJymnTL3hgc)
+* [Scraping the SEC, 2020](https://www.youtube.com/watch?v=dJymnTL3hgc)
 * [Parsing the SEC Data](https://www.youtube.com/watch?v=TxUmufNnIaA&t=127s)
 * [All SEC Related Tutorials](https://www.youtube.com/channel/UCBsTB02yO0QGwtlfiv5m25Q/search?query=SEC)
 
