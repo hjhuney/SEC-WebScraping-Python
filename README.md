@@ -13,3 +13,7 @@
 ## Libraries / APIs
 
 * [Python Library for EDGAR](https://github.com/joeyism/py-edgar)
+
+### Python-Edgar
+* [Python-Edgar Example](https://codingandfun.com/python-sec-edgar-scraper/)
+* [Python-edgar](https://pypi.org/project/python-edgar/)
